@@ -104,8 +104,8 @@ nav .navigation ul li a:hover
 /*------------- Hero section styling start --------------*/
 #home
 {
-	background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5,4,46,0.7)), url("images/final background.png");
-	width: 90%;
+	background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5,4,46,0.7)), url("images/als3.png");
+	width: 97%;
 	height: 60vh;
 	background-size: cover;
 	background-position: center center;
